@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1513763980 source:d:\tspalgoritmi\tsp\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+
+1513764048 d:\tspalgoritmi\tsp\graf.h
+	"grad.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 d:\tspalgoritmi\tsp\grad.h
+
+1513807700 source:i:\tspalgoritmi\tsp\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+
+1513809480 i:\tspalgoritmi\tsp\graf.h
+	"grad.h"
+	"binarni.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 i:\tspalgoritmi\tsp\grad.h
+
+1513809478 i:\tspalgoritmi\tsp\binarni.h
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+
+1514994361 source:c:\users\user\desktop\fakultet\strukture podataka\projekti\tsp\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+	<time.h>
+	<math.h>
+
+1515006772 c:\users\user\desktop\fakultet\strukture podataka\projekti\tsp\graf.h
+	"grad.h"
+	"binarni.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 c:\users\user\desktop\fakultet\strukture podataka\projekti\tsp\grad.h
+
+1513809666 c:\users\user\desktop\fakultet\strukture podataka\projekti\tsp\binarni.h
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+
